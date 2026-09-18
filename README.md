@@ -1,5 +1,4 @@
-NOTE:- follow these step after completing the steps  mentioned in the video @techwin.in(Github Profile)
-Mentioned Code:
+
 \<p align="center"> \<img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" /> \</
 p>
 \<p align="center"> \<a href="https://github.com/DeepakAmalWinstarJ"> \<img src="https://readme-typingsvg.demolab.com?
