@@ -14,9 +14,13 @@
   <tr>
     <td align="center" width="200">
       
-      <img src="https://github.com/Abinesh-FullStack/Abinesh-FullStack/shared%20image.jpg" width="150" height="150"
-           style="border-radius:50%; border: 3px solid #1f6feb;"
-           alt="Abinesh V" />
+      <img
+  src="https://raw.githubusercontent.com/Abinesh-FullStack/Abinesh-FullStack/main/shared image.jpg"
+  width="150"
+  height="150"
+  style="border-radius:50%; border:3px solid #1f6feb;"
+  alt="Abinesh V"
+/>
       <br/><br/>
       <img src="https://img.shields.io/badge/Available-Open_to_Work-1f6feb?style=flat-square&labelColor=0d1117" alt="Status" />
     </td>
