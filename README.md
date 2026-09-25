@@ -15,7 +15,7 @@
     <td align="center" width="200">
       
           <img
-            src="https://raw.githubusercontent.com/Abinesh-FullStack/Abinesh-FullStack/main/profile.jpg"
+            src="https://github.com/Abinesh-FullStack/Abinesh-FullStack/blob/main/profile.jpg"
             width="150"
             height="150"
             style="border-radius:50%; border:3px solid #1f6feb;"
