@@ -50,7 +50,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <a href="mailto:abineshvijayakumar12@gmail.com">
+  <a href="mailto:abinesh.fullstack@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-abinesh.fullstack-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/abinesh-v-7496b32b2" target="_blank">
