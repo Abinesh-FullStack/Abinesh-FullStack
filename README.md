@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=280&section=header&text=Abinesh%20V&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20QA%20Engineer&descSize=18&descAlignY=58&descColor=00f2fe&animation=fadeIn" width="100%" alt="Header Banner"/>
+<!-- Blue Gradient Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:0a1128&height=280&section=header&text=Abinesh%20V&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20QA%20Engineer&descSize=18&descAlignY=58&descColor=a3daff&animation=fadeIn" width="100%" alt="Header Banner"/>
 
 <!-- Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9A%A1+Building+Enterprise+HRMS+%26+MES+Platforms;%F0%9F%93%88+Transforming+Data+into+Actionable+Insights;%F0%9F%A7%AA+Mastering+QA%2C+Automation+%26+Performance;%F0%9F%A4%96+Pioneering+AI%2FML+%26+Smart+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&multiline=false&width=700&lines=%E2%9A%A1+Building+Enterprise+HRMS+%26+MES+Platforms;%F0%9F%93%88+Transforming+Data+into+Actionable+Insights;%F0%9F%A7%AA+Mastering+QA%2C+Automation+%26+Performance;%F0%9F%A4%96+Pioneering+AI%2FML+%26+Smart+Engineering" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://abinesh1702.github.io/Abinesh-profolio-website/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
 </a>
 <a href="https://github.com/Abinesh-FullStack" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -26,8 +26,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abinesh-FullStack&label=PROFILE%20VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00ff88?style=for-the-badge&logo=rocket&logoColor=black" alt="Status"/>
+<img src="https://komarev.com/ghpvc/?username=Abinesh-FullStack&label=PROFILE%20VIEWS&color=0072ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00c6ff?style=for-the-badge&logo=rocket&logoColor=black" alt="Status"/>
 
 </div>
 
@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px #00f2fe;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px #0072ff;" />
     </td>
   </tr>
 </table>
@@ -138,16 +138,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abinesh-FullStack&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh-FullStack&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abinesh-FullStack&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true&title_color=00c6ff&icon_color=00c6ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh-FullStack&layout=compact&theme=ocean_dark&hide_border=true&title_color=00c6ff" width="42%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-FullStack&theme=tokyonight&hide_border=true" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-FullStack&theme=ocean_dark&hide_border=true&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" width="90%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinesh-FullStack&theme=react-dark&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinesh-FullStack&theme=react-dark&hide_border=true&line=00c6ff&point=ffffff" width="90%" />
 
 </div>
 
@@ -170,11 +170,11 @@
 </a>
 &nbsp;
 <a href="https://abinesh1702.github.io/Abinesh-profolio-website/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/Visit_Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,50:0072ff,100:00c6ff&height=120&section=footer" width="100%"/>
 
 </div>
