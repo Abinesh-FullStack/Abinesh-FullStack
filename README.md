@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:1a1a2e&height=260&section=header&text=Hey,%20I'm%20Abinesh%20V&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Data%20Analyst%20•%20QA%20Engineer&descSize=18&descAlignY=55&descColor=b8c1ec&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,70:24243e,100:1a1a2e&height=260&section=header&text=Hey,%20I'm%20Abinesh%20V&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Data%20Analyst%20•%20QA%20Engineer&descSize=18&descAlignY=55&descColor=b8c1ec&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=B8C1EC&center=true&vCenter=true&width=650&lines=Building+Enterprise+Web+Apps+(HRMS+%2F+MES);Turning+Data+into+Decisions+with+Power+BI+%26+Python;Breaking+Things+on+Purpose+%E2%80%94+QA+%26+Automation;Currently+Exploring+AI+%2F+ML+Engineering" alt="typing"/> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=B8C1EC&center=true&vCenter=true&width=650&lines=Building+Enterprise+Web+Apps+(HRMS+%2F+MES);Turning+Data+into+Decisions+with+Power+BI+%26+Python;Breaking+Things+on+Purpose+%E2%80%94+QA+%26+Automation;Currently+Exploring+AI+%2F+ML+Engineering" alt="typing"/> 
 
 <br/>
 
