@@ -13,17 +13,23 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" width="200">
-      
-          <img
-            src="https://github.com/Abinesh-FullStack/Abinesh-FullStack/blob/main/profile.jpg"
-            width="150"
-            height="150"
-            style="border-radius:50%; border:3px solid #1f6feb;"
-            alt="Abinesh V"
-          />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Available-Open_to_Work-1f6feb?style=flat-square&labelColor=0d1117" alt="Status" />
-    </td>
+
+  <img
+    src="https://raw.githubusercontent.com/Abinesh-FullStack/Abinesh-FullStack/main/profile.jpg"
+    width="150"
+    height="150"
+    style="border-radius:50%; border:3px solid #1f6feb;"
+    alt="Abinesh V"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://img.shields.io/badge/Available-Open_to_Work-1f6feb?style=flat-square&labelColor=0d1117"
+    alt="Status"
+  />
+
+</td>
     <td align="left" width="520" style="padding-left: 30px;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&multiline=true&repeat=true&width=520&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abinesh+V;Full+Stack+Developer;Data+Analyst+%7C+QA+Engineer;Always+Building.+Always+Learning." alt="Typing SVG" />
       <br/>
